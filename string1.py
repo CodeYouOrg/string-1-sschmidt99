@@ -1,3 +1,4 @@
+# Trying to fix fail on GitHub
 # Basic string exercises
 # Fill in the code for the functions below. main() is already set up
 # to call the functions with a few different inputs,
